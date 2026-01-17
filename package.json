@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "fsevents": "^1.2.8",
+    "fsevents": "^1.2.13",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-i18next": "^11.3.1",
